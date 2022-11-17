@@ -1,0 +1,24 @@
+.btn{
+    width: 150px;
+    height: 45px;
+    border: 2px solid #000;
+    background-color: #fff;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-text{
+   font-size: 15px;
+   padding-right: 10px;
+}
+
+.btn-icon{
+    width: 15px;
+    height: 15px;
+}
+
+.icon-del{
+    display: none;
+}
